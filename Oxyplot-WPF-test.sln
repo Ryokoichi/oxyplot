@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxyplot-WPF-test", "Oxyplot-WPF-test\Oxyplot-WPF-test.csproj", "{186DDBB9-C0BB-43E7-A3EE-5D60DC3FD6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186DDBB9-C0BB-43E7-A3EE-5D60DC3FD6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186DDBB9-C0BB-43E7-A3EE-5D60DC3FD6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186DDBB9-C0BB-43E7-A3EE-5D60DC3FD6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186DDBB9-C0BB-43E7-A3EE-5D60DC3FD6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574665C6-A526-4B40-8F78-89311652B847}
+	EndGlobalSection
+EndGlobal
